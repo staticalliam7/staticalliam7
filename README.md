@@ -1,6 +1,4 @@
 ![]()
 # Hi! I'm staticvoidliam7, a self taught coder and spaceflight enthusiast
-## I am a part of [@Radioactivetech](https://github.com/radioactivetech), and i am working on the Iridium Programming Language!
+## I play lots of Mindustry, Portal/Portal 2, Minecraft, and Kerbal Space Program. 
 
-
-earthlings act very weird
