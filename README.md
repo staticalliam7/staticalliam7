@@ -8,6 +8,8 @@ I am also into robotics. I am working on the [GlaDOS Project](https://github.com
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=staticalliam7&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[Stats Provided by Anuraghazra](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
