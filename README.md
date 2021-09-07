@@ -1,6 +1,7 @@
 # Hi! I'm staticalliam7, a self taught coder and spaceflight enthusiast
 ## I play lots of Mindustry, Portal/Portal 2, Minecraft, and Kerbal Space Program. 
 I am also into robotics. I am working on the [GlaDOS Project](https://github.com/theGlaDOSProject)
+I am learning Rust, Python, and Nim. I already have a solid understanding of C# and Java 
 
 ![staticalliam7's GitHub stats](https://github-readme-stats.vercel.app/api?username=staticalliam7&show_icons=true&theme=dark&include_all_commits=true)
 
