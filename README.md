@@ -1,12 +1,31 @@
 
-## My name is staticalliam7, and I'm cool.
-## I play lots of Mindustry, Portal/Portal 2, Minecraft, and Kerbal Space Program. 
-I am learning Rust, Python, and Nim. I know basic JavaScript but I am too lazy to actually learn it, so it's restricted to basically Discord.js. I already have a solid understanding of C# and Java. I want to mod Simplerockets 2, but it is absolute hell trying to stuggle with SR2 modtools
+# My name is Pirated Gonb, and I'm cool.
 
-Check out the mindustry mod, and try to help out
+<details>
+<summary>About me</summary>
+<br>
+I am a very pongers developer who makes stuff and then forgets about them. 
+<br>
+I am one of the 4 Gonb Overlords 
+<br>
+My species and age is currently unknown (Estimated to be at least 8000 years old). My home planet is Trappist 1e.
+<br>
+Advid Bingus Enjoyer
+<br>
+Explosives/Rocketry enthusiast (accidental creator of the great sugar rocket gone wrong experiment [pipe bomb])
+<br>
+My favorite pokemon is Luxray (Luxray is badass)
+</details>
 
-also the stuff down here breaks a lot. oh well what are ya gonna do `¯\_(ツ)_/¯ `
+<details>
+  <summary>What I'm learning</summary>
+  <br>
+  I am learning Nim, Python, and Rust. Tried to learn C++ but almost risked my immortality
+  <br>
+  I am also learning about rocket propellant chemistry and orbital mechanics (n-body orbital mechanics - the *really* complicated stuff)
+ </details>
 
+ 
 ![staticalliam7's GitHub stats](https://github-readme-stats.vercel.app/api?username=staticalliam7&show_icons=true&theme=dark&include_all_commits=true)
 
 
@@ -14,6 +33,7 @@ also the stuff down here breaks a lot. oh well what are ya gonna do `¯\_(ツ)_/
 
 
 [Stats Provided by Anuraghazra](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
