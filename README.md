@@ -1,30 +1,4 @@
-
-# My name is Pirated Gonb, and I'm cool.
-
-<details>
-<summary>About me</summary>
-<br>
-I am a very pongers developer who makes stuff and then forgets about them. 
-<br>
-I am one of the 4 Gonb Overlords 
-<br>
-My species and age is currently unknown (Estimated to be at least 8000 years old). My home planet is Trappist 1e.
-<br>
-Advid Bingus Enjoyer
-<br>
-Explosives/Rocketry enthusiast (accidental creator of the great sugar rocket gone wrong experiment [pipe bomb])
-<br>
-My favorite pokemon is Luxray (Luxray is badass)
-</details>
-
-<details>
-  <summary>What I'm learning</summary>
-  <br>
-  I am learning Nim, Python, and Rust. Tried to learn C++ but almost risked my immortality
-  <br>
-  I am also learning about rocket propellant chemistry and orbital mechanics (n-body orbital mechanics - the *really* complicated stuff)
- </details>
-
+![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
  
 ![staticalliam7's GitHub stats](https://github-readme-stats.vercel.app/api?username=staticalliam7&show_icons=true&theme=dark&include_all_commits=true)
 
